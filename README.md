@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/ckkumar2735/ckkumar27351/blob/main/photo-1456513080510-7bf3a84b82f8.jpg) -->
 
 <h1 align="center">Hi 👋, I'm Chandra Kant Kumar</h1>
-<h3 align="center">A passionate Front End developer from India</h3>
+<h3 align="center">A passionate Front End Developer from India</h3>
 
 <img align="right" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding" width="400">
 
